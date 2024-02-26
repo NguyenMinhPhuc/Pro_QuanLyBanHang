@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace QuanLyBanHang.DataLayer
 {
-    public class Class1
+    public class MyDatabase
     {
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace QuanLyBanHang.BusinessLayer
 {
-    public class Class1
+    public class BLL_Base
     {
     }
 }
