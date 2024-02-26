@@ -35,6 +35,8 @@ Học xong phần này sinh viên có thể:
     + **MenuStrip**: Kéo menustrip từ toolbox vào trong frm_Main
     + **StatusStrip**: Kéo StatusStrip từ toolbox vào trong frm_main
 - **Bước 4**: Add thư viện DotNetBar2 từ file DLL theo link sau đó thêm TabControl từ thư viện này vào FrmMain (cách làm giống như Add control thông thường)
+<img src="https://github.com/NguyenMinhPhuc/Pro_QuanLyBanHang/blob/main/Pages/Images/Frm_Main.png?raw=true" height="400px" />
+
 
 [Xem video hướng dẫn tại đây]()
 
