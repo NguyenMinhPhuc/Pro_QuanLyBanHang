@@ -44,8 +44,11 @@ form login sử dụng để kiểm soát quyền đăng nhập vào hệ thốn
 - **Cách 1**: khi ứng dụng được mở. form login sẽ được mở trước. sau khi kiểm tra đăng nhập sẽ cho phép mở form chính của ứng dụng
 - **Cách 2**: Form chính của ứng dụng sẽ mở lên trước. trong sự kiện load của form chính sẽ gọi mở form login theo dạng ShowDialog(). Kiểm tra đăng nhập thành công chỉ cần tắt form login đi (khuyên dùng).
 
-**Chú ý: ** Trong hướng dẫn này sẽ sử dụng cách thứ 2
-<img src="" height="150px" />
+<img src="https://github.com/NguyenMinhPhuc/Pro_QuanLyBanHang/blob/main/Pages/Images/FrmLogin.png?raw=true" height="300px" />
+
+**Chú ý:** Trong hướng dẫn này sẽ sử dụng cách thứ 2
+
+
 [Xem video hướng dẫn tại đây]()
 
 ## Cách mở form theo dạng thông thường
